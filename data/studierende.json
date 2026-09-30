@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Max Mustermann",
+    "ziel_notendurchschnitt": 2.0,
+    "studiengang": {
+      "name": "Data Science",
+      "gesamt_ects": 180,
+      "module": [
+        {
+          "name": "Grundlagen der Programmierung",
+          "ects": 5
+        },
+        {
+          "name": "Mathematik I",
+          "ects": 5
+        },
+        {
+          "name": "Objektorientierte und funktionale Programmierung mit Python",
+          "ects": 5
+        }
+      ]
+    },
+    "belegungen": [
+      {
+        "modul": "Grundlagen der Programmierung",
+        "pruefungsleistungen": [
+          {
+            "semester": 1,
+            "note": 1.7
+          }
+        ]
+      },
+      {
+        "modul": "Mathematik I",
+        "pruefungsleistungen": [
+          {
+            "semester": 1,
+            "note": 2.3
+          }
+        ]
+      },
+      {
+        "modul": "Objektorientierte und funktionale Programmierung mit Python",
+        "pruefungsleistungen": [
+          {
+            "semester": 2,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+]
